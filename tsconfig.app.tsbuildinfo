@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/data/mockQuestions.ts","./src/router/index.ts","./src/services/quizApi.ts","./src/stores/quiz.ts","./src/types/quiz.ts","./src/App.vue","./src/components/ProgressBar.vue","./src/components/QuestionCard.vue","./src/views/Home.vue","./src/views/Quiz.vue","./src/views/Result.vue"],"version":"5.9.3"}
